@@ -1,3 +1,3 @@
-# 00-ai
-# 00-ai
-# 00-ai
+# Demo at https://00-ai.tech/
+
+Simple project that summerizes webpages, can be used for news pages, stories, articles, etc ... 
